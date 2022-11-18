@@ -1,2 +1,2 @@
 # css
-Click to visit website:gh repo clone rebelranga/css
+Click to visit website:https://github.com/rebelranga/css.gits
